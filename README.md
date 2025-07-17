@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sanket-rajput">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Builder+%F0%9F%96%A5;Hackathon+Addict+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Blockchain+Dev+%F0%9F%92%B8;React+%2B+Next.js+Lover+%F0%9F%91%BB;2nd+Year+PICTian+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+Builder+%F0%9F%96%A5;Hackathon+Addict+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Blockchain+Dev+%F0%9F%92%B8;React+%2B+Next.js+Lover+%F0%9F%91%BB;3rd+Year+PICTian+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
