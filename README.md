@@ -11,7 +11,7 @@
 
 ### 👨🏽‍💻 About Me
 
-- 🎓 2nd Year B.Tech | Electronics & Computer Engineering @ PICT
+- 🎓 3rd Year B.Tech | Electronics & Computer Engineering @ PICT
 - 🔭 Working on: `ScamShield` – AI-powered scam call detection app (Android)
 - 🌱 Currently learning: `Next.js` • `Quantum Computing` • `ML + LangChain`
 - 💡 Side projects: `CampusVote`, `AIRRE`, `PriceTracker`
