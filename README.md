@@ -32,17 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanket-rajput&theme=tokyonight" width="48%"/>
 </p>
 
----
 
-
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanket-rajput&theme=tokyonight&row=1&column=7" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
@@ -75,5 +65,5 @@
 
 Give a ⭐️ to help more devs discover my work — it keeps me building 🙌
 
----
+
 
