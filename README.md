@@ -12,7 +12,6 @@
 ### 👨🏽‍💻 About Me
 
 - 🎓 3rd Year B.Tech | Electronics & Computer Engineering @ PICT
-- 🔭 Working on: `ScamShield` – AI-powered scam call detection app (Android)
 - 🌱 Currently learning: `Next.js` • `Quantum Computing` • `ML + LangChain`
 - 💡 Side projects: `CampusVote`, `AIRRE`, `PriceTracker`
 - 🎨 Loves sketching & creating cinematic videos
@@ -22,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,java,kotlin,androidstudio,mongodb,firebase,py,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,scala,py,mongodb,firebase,js,ts,nodejs,react,nextjs,tailwind,git,github" />
 </p>
 
 ---
@@ -30,19 +29,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanket-rajput&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanket-rajput&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### 💡 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-rajput&layout=compact&theme=tokyonight&hide=html,css" width="45%"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
@@ -67,19 +59,15 @@
 </p>
 
 ---
-
 ### 📽️ Featured Projects
 
-- 📦 **PriceTracker** – Compare & find genuine product prices across platforms
-- 🔐 **CampusVote** – Blockchain-based voting system for campus elections
-- 🧠 **ScamShield** – Real-time scam call detection with on-device AI
-- 🚨 **AIRRE** – AI-based real-time emergency reporting web app
+* 🧩 **RAG Assistants & LLM4S Contributions** – Building production-ready RAG pipelines, document chunking strategies, vector search optimization, and open-source LLM infrastructure
+* 📊 **AI Market Analysis Dashboard** – ChatGPT-style analytics dashboard with AI insights using React, Shadcn/ui & Tailwind
+* 📦 **PriceTracker** – AI-powered product authenticity & cross-platform price comparison platform
+* 🔐 **CampusVote** – Private blockchain-based campus voting system with OTP authentication
+* 🧠 **ScamShield** – Privacy-first Android app for real-time scam call detection using on-device AI
+* 🚨 **AIRRE** – AI-driven real-time incident reporting & emergency response web app
 
-
----
-
-### 🧠 Fun Fact
-> I debug in dark mode because the bugs are scared of the dark 🐞🌑
 
 ---
 
