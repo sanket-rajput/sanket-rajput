@@ -11,7 +11,7 @@
 
 ### 👨🏽‍💻 About Me
 
-- 🎓 3rd Year B.Tech | Electronics & Computer Engineering @ PICT
+- 🎓 Final Year B.Tech | Electronics & Computer Engineering @ PICT
 - 🌱 Currently learning: `Next.js` • `Quantum Computing` • `ML + LangChain`
 - 💡 Side projects: `CampusVote`, `AIRRE`, `PriceTracker`
 - 🎨 Loves sketching & creating cinematic videos
