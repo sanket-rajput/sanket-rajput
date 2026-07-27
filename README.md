@@ -26,11 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanket-rajput&theme=tokyonight" width="48%"/>
-</p>
 
 
 
