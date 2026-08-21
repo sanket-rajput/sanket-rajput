@@ -12,8 +12,8 @@
 ### 👨🏽‍💻 About Me
 
 - 🎓 Final Year B.Tech | Electronics & Computer Engineering @ PICT
-- 🌱 Currently learning: `Next.js` • `Quantum Computing` • `ML + LangChain`
-- 💡 Side projects: `CampusVote`, `AIRRE`, `PriceTracker`
+- 🌱 Currently learning: `Django` • `Spring Boot` • `ML + LangChain`
+- 💡 Side projects: `BluCare`, `FileShare`, `PriceTracker`
 - 🎨 Loves sketching & creating cinematic videos
 
 ---
